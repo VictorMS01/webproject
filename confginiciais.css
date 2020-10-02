@@ -1,17 +1,42 @@
 body {
-font-family: "Lucida Grande", "Lucida Sans Unicode", Verdana,
-sans-serif;
-line-height: 1.6;
-}
-.container {
-margin: 0 auto;
-width: 960px;
-border-color: #CCC #999 #999 #CCC;
-border: 1px solid #CCC;
-margin-bottom: 20px;
-padding: 10px;
-background: #FFF1D6 url(images/noise.png);
-font-family: "Lucida Grande", "Lucida Sans Unicode", Verdana,
-sans-serif;
-line-height: 1.6;
-}
+    font-family: "Lucida Grande", "Lucida Sans Unicode", Verdana,
+    sans-serif;
+    line-height: 1.6;
+    }
+    .container {
+    margin: 0 auto;
+    width: 960px;
+    border-color: #CCC #999 #999 #CCC;
+    border: 1px solid #CCC;
+    margin-bottom: 20px;
+    padding: 10px;
+    background: #FFF1D6 url(images/noise.png);
+    font-family: "Lucida Grande", "Lucida Sans Unicode", Verdana,
+    sans-serif;
+    line-height: 1.6;
+    }
+    .one {
+        margin: 0 auto;
+        width: 900;
+        border-color: DarkSeaGreen;
+        border: 1px;
+        padding: 10px;
+        background: LightGreen url(images/noise.png);
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        line-height: 1.6;
+        text-align: center;
+        color: goldenrod;
+      }
+      .two {
+        color: SaddleBrown;
+        text-align: center;
+      }
+      p {
+        font-family: verdana;
+        font-size: 20px;
+      }
+      .sub{
+          font-size: 10px;
+          color: black;
+      }
+    
